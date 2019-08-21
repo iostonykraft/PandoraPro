@@ -1,0 +1,10 @@
+Package: com.tonykraft.pandorapro
+Name: PandoraPro
+Depends: mobilesubstrate
+Version: 1.2.8
+Architecture: iphoneos-arm
+Description: Pandora premium features for free
+Depiction: http://iostonykraft.github.io/depictions/com.tonykraft.pandorapro
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Author: Tony Kraft <iostonykraft@gmail.com>
+Section: Tweaks
